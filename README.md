@@ -80,7 +80,7 @@ MSAs vereinfachen die Verwaltung von Dienstkonten:
 ---
 
 ## 🎓 Lernpfade für Windows Server 2025
-- [Windows Server 2025 Lernpfad auf Microsoft Learn](https://learn.microsoft.com/de-de/training/windows-server/)
+- [Windows Server 2025 Lernpfad auf Microsoft Learn](https://learn.microsoft.com/de-de/training/browse/?terms=Server&products=windows-server&roles=administrator%2Cidentity-access-admin%2Csupport-engineer%2Ctechnology-manager)
 - [Was ist neu in Windows Server 2025](https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-windows-server-2025)
 - [Windows Server Summit 2025](https://techcommunity.microsoft.com/event/techcommunitylive/windows-server-summit-2025/4361618)
 
